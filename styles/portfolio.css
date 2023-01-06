@@ -70,6 +70,8 @@ nav ul {
 }
 
 .shamsul {
+ 
+
     margin-left: 455px;
 }
 
@@ -90,11 +92,7 @@ nav ul {
 }
 
 
-/*.banner-description {
-    color: #757575;
-    font-size: 18px;
-    margin-bottom: 30px;
-} */
+
 
 /* main section */
 main {
@@ -232,7 +230,7 @@ main {
 
 .contact {
     display: flex;
-    gap: 100px;
+    gap: 200px;
     background: #FFF8F3;
     padding: 130px 200px;
     
