@@ -190,3 +190,33 @@ color: #757575;
     font-size: 35px;
     margin-bottom: 115px;
 }
+.resume-content{
+    display: flex;
+    gap: 24px;
+}
+
+.resume-title1{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+
+.resume-title2{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume-description{
+    color: #757575;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume-btn{
+    margin-top: 50px;
+    text-align: center;
+}
